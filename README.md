@@ -18,7 +18,7 @@
 ## 🧁 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,fastapi,flask,tensorflow,git,github,linux,mysql,sqlite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,fastapi,flask,git,github,linux,mysql&perline=7" />
 </div>
 
 ## 🎀 Featured Projects
