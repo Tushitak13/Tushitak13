@@ -29,11 +29,25 @@
 | [⚡ EdgeTwin](https://github.com/Tushitak13/edgetwin-tinyML) | TinyML reliability analysis using a Reality Gap Index. |
 | [✍️ AI Writing Assistant](https://github.com/Tushitak13/AI-Writing-Assistant) | AI-powered grammar, spelling and readability analysis. |
 
-
-## ✨ A Little Shooting Star
-
 <div align="center">
   <img src="assets/shooting-stars.gif" width="100%" alt="Shooting star animation" />
+</div>
+
+
+<div align="center">
+  <img src="assets/shooting-stars.gif"
+       width="220"
+       alt="Shooting star animation" />
+</div>
+
+## 🌷 My Coding Activity
+
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/C87991/Tushitak13"
+    alt="GitHub contribution graph"
+    width="100%"
+  />
 </div>
 
 ## 🌼 Let's Connect
